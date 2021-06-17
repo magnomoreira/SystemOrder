@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/moreira/dev/dotnet/SystemOrder/System/System.csproj": {}
+  },
+  "projects": {
+    "/home/moreira/dev/dotnet/SystemOrder/System/System.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/moreira/dev/dotnet/SystemOrder/System/System.csproj",
+        "projectName": "System",
+        "projectPath": "/home/moreira/dev/dotnet/SystemOrder/System/System.csproj",
+        "packagesPath": "/home/moreira/.nuget/packages/",
+        "outputPath": "/home/moreira/dev/dotnet/SystemOrder/System/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/moreira/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlserver": {
+              "target": "Package",
+              "version": "[*, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.410/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
