@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Tf9fyMNV1rZsPhY5WdICLYeCx7NDzCyJTcmZfqKs7cK8uqLI52m1nQmMf56e5L2/0MHHF8XhEagLJCVYi8Q/SA==",
+  "dgSpecHash": "fjgft0PyX/e6TkcURQTflhU9A615s26uxS2gxCi/r1eXnfwWCf6t2WnuIXLU3Kf36x/15bT8+uXQEwxsNMQVCg==",
   "success": true,
-  "projectFilePath": "/home/moreira/dev/dotnet/SystemOrder/System/System.csproj",
+  "projectFilePath": "/home/moreira/dev/cursoNet/SystemOrder/System/System.csproj",
   "expectedPackageFiles": [
     "/home/moreira/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
     "/home/moreira/.nuget/packages/microsoft.data.sqlclient/2.0.1/microsoft.data.sqlclient.2.0.1.nupkg.sha512",

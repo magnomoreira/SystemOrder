@@ -5698,7 +5698,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Microsoft.EntityFrameworkCore.Sqlserver >= *"
+      "Microsoft.EntityFrameworkCore.Sqlserver >= 5.0.7"
     ]
   },
   "packageFolders": {
@@ -5707,11 +5707,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/moreira/dev/dotnet/SystemOrder/System/System.csproj",
+      "projectUniqueName": "/home/moreira/dev/cursoNet/SystemOrder/System/System.csproj",
       "projectName": "System",
-      "projectPath": "/home/moreira/dev/dotnet/SystemOrder/System/System.csproj",
+      "projectPath": "/home/moreira/dev/cursoNet/SystemOrder/System/System.csproj",
       "packagesPath": "/home/moreira/.nuget/packages/",
-      "outputPath": "/home/moreira/dev/dotnet/SystemOrder/System/obj/",
+      "outputPath": "/home/moreira/dev/cursoNet/SystemOrder/System/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/moreira/.nuget/NuGet/NuGet.Config"
@@ -5738,7 +5738,7 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Sqlserver": {
             "target": "Package",
-            "version": "[*, )"
+            "version": "[5.0.7, )"
           }
         },
         "imports": [
