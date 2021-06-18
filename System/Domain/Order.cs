@@ -12,7 +12,7 @@ namespace System.Domain
         public DateTime Finish { get; private set; }
         public ShippingType ShippingType { get; private set; }
         public OrderStatus OrderStatus { get; private set; }
-        public string Observe { get; private set; }
+        public string Observation { get; private set; }
         public ICollection<Order> Iten { get; private set; }
     }   
 }
