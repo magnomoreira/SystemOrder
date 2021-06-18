@@ -5707,11 +5707,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/moreira/dev/cursoNet/SystemOrder/System/System.csproj",
+      "projectUniqueName": "/home/moreira/dev/cursoNet/System/SystemOrder/System/System.csproj",
       "projectName": "System",
-      "projectPath": "/home/moreira/dev/cursoNet/SystemOrder/System/System.csproj",
+      "projectPath": "/home/moreira/dev/cursoNet/System/SystemOrder/System/System.csproj",
       "packagesPath": "/home/moreira/.nuget/packages/",
-      "outputPath": "/home/moreira/dev/cursoNet/SystemOrder/System/obj/",
+      "outputPath": "/home/moreira/dev/cursoNet/System/SystemOrder/System/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/moreira/.nuget/NuGet/NuGet.Config"
